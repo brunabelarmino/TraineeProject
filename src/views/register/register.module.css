@@ -1,0 +1,32 @@
+.loginContainer {
+  padding: 20px;
+  background-color: white;
+  border-radius: 6px;
+  width: 400px;
+  margin-bottom: 20px;
+  box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+}
+
+.Authformtitle {
+  text-align: center;
+  margin-bottom: 1em;
+  font-size: 24px;
+  color: rgb(34, 34, 34);
+  font-weight: 800;
+}
+
+label {
+  font-size: 14px;
+  font-weight: 600;
+  color: rgb(34, 34, 34);
+}
+
+.Authformcontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  margin-top: 20vh;
+
+}
